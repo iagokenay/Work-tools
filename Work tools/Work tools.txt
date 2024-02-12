@@ -1,4 +1,4 @@
-00:11 Imagens grátis
+Imagens grátis
   https://pixabay.com/pt/
   https://unsplash.com/pt-br
   https://br.freepik.com/
@@ -9,7 +9,7 @@
   https://sapiens.ui8.net/
   https://undraw.co/
 
-00:36 Botões
+Botões
   https://uiverse.io/
   https://cssbuttons.app/
   https://freefrontend.com/
@@ -17,7 +17,7 @@
   https://jonsuh.com/hamburgers/
   https://shadows.brumm.af/
 
-1:38 Icones
+Icones
   https://ionic.io/ionicons
   https://fontawesome.com/
   https://3dicons.co/
@@ -28,7 +28,7 @@
   https://tablericons.com/
   https://vertex.im/
 
-1:47 Animações
+Animações
   https://whirl.netlify.app/
   https://animista.net/
   https://ianlunn.github.io/Hover/
@@ -41,7 +41,7 @@
   https://swiperjs.com/
   https://www.framer.com/motion/
 
-2:18 Cores
+Cores
   https://www.happyhues.co/
   https://color.adobe.com/
   https://webgradients.com/
@@ -53,13 +53,13 @@
   https://htmlcolorcodes.com/
   https://www.color-hex.com/
 
-2:32 Fontes
+ Fontes
   https://fonts.google.com/
   https://www.dafont.com/pt/
   https://www.whatfontis.com/
   https://www.fontsquirrel.com/
 
-2:47 Sites para inspiração (e clones) 
+Sites para inspiração (e clones) 
   https://www.seesaw.website/
   https://dribbble.com/
   https://webframe.xyz/
